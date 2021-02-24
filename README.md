@@ -1,4 +1,4 @@
-Hi there, my name is Vitor Almeida and I'm from Goiânia, GO, Brazil. And I've been working as a Quality Assurance analyst on a startup called LifeApps.
+Hi there, my name is Vitor Almeida and I'm from Goiânia, GO, Brazil. I've been working as a Quality Assurance analyst on a startup called LifeApps.
 
 - 🔭 I’m currently working on LifeApps Soluções, a MaximaTech company
 - 🌱 I’m currently learning NodeJS and ReactJS
