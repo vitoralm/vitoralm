@@ -1,4 +1,4 @@
-Hi there, my name is Vitor Almeida and I'm from Goiânia, GO, Brazil. I've been working as a Quality Assurance analyst on a fintech called Tilix Digital.
+Hi there, my name is Vitor Almeida and I'm from Goiânia, GO, Brazil. I've been working as a Quality Assurance Engineer on a fintech called Tilix Digital by PagSeguro.
 
 - 🔭 I’m currently working on Tilix Digital, a fintech by PagSeguro
 - 🌱 I’m very used to Automated Software Testing tools like Postman, Appium and Robot framework along with and some web development skill with NodeJS, React.js, Ruby and Python.
