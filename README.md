@@ -1,5 +1,5 @@
 Hi there! 👋
-I'm Vitor Almeida Pires, a Senior Quality Assurance Engineer from Goiânia, Brazil 🇧🇷. I have over 10 years of experience in software development and agile quality processes. Currently, I work remotely at Argyle, a payroll company based in the United States.
+I'm Vitor Almeida Pires, a Senior Quality Assurance Engineer from Goiânia, Brazil 🇧🇷. I have over 10 years of experience (which 5 of them working full remotely) in software development and agile quality processes with a big variety of automation frameworks and programming languages such as Python and TypeScript.
 
 🛠️ What I do
 ✅ QA & Test Automation: Experienced with Appium, Playwright, Cypress, and Postman
