@@ -5,7 +5,7 @@ I'm Vitor Almeida Pires, Senior QA Engineer from Goiânia, Brazil 🇧🇷 with 
 
 👨🏽‍💻 What I do
 - 💻 QA & Test Automation: Strongly experienced in scrum and kanban environments and all the challenges that could come from working in small-team startups with a fast paced growth until multinational companies with a established software development culture, mature and processes and widely distributed teams. Able to work on building a whole test plan with the more valuable and modern strategies, effective issue tracking and constant product quality feedback
-- 🛠️ Programming languages, frameworks and tools: Playwright, Cypress, Appium, Postman, Pact, Proxyman, Python (Pytest, Behave, Tavern, Flask, Django), JavaScript (Jest, Mocha, Node.js), TypeScript, Docker, CI/CD (Github Actions and Jenkins)
+- 🛠️ Programming languages, frameworks and tools: Playwright, Cypress, Appium, Postman, Pact, Proxyman, Allure Report, TestRail, Python (Pytest, Behave, Tavern, Django, Flask), JavaScript (Jest, Mocha, Node.js), TypeScript, Docker, CI/CD (Github Actions and Jenkins)
 - 🚀 Great communicator with passion about collaborating, reinforcing the QA culture and improving processes to positively impact the software quality
 - 📌 Always learning
 - I'm always looking for ways to refine and optimize software development and testing processes. I enjoy exchanging ideas and discussing best practices with other professionals in the field
